@@ -1,0 +1,6 @@
+dash
+dash_ui
+dash_bootstrap_components
+pandas
+sqlalchemy
+python-dotenv
